@@ -1,0 +1,6 @@
+basics --> https://www.youtube.com/watch?v=DYcLFHgVCn0&t=22s
+ohm's law --> https://www.youtube.com/watch?v=HsLLq6Rm5tU
+series connection --> https://youtu.be/VV6tZ3Aqfuc?si=kPHA_OGgW2I1tuM3
+parallel connection --> https://youtu.be/5uyJezQNSHw?si=yRaoImYF22ndWJvF
+pullup and pull down --> https://www.youtube.com/watch?v=V0GeJPqzqsI&t=545s
+Kirchhoff law --> https://www.youtube.com/watch?v=FHJWkx5yehE	

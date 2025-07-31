@@ -1,0 +1,28 @@
+🟩 Level 0: Absolute Basics
+
+Basics : 
+	https://www.youtube.com/watch?v=TVMM8kkDTFM
+	https://www.youtube.com/watch?v=KSylo01n5FY
+	https://www.youtube.com/watch?v=d73e3QiMdSU
+
+lenz law : 
+	https://www.youtube.com/watch?v=7a9sqIDboO0
+	https://www.youtube.com/watch?v=2_M83gNOOEg
+
+Self inductance:
+	https://youtu.be/9rNKbZ-5RW0?si=00sKVwPpcYi6phAt
+	https://youtu.be/1F1ssAiPYC8?si=dOrqh92RT8WuGDnx
+
+Mutual Inductance :
+	https://youtu.be/ajsvYwtntLk?si=HdgHYpLfeZa3xLGZ
+
+How inductors work within a ckt:
+	https://youtu.be/VFPwgjGHqFQ?si=j7d2AWziM5WuCBrx
+
+behaviour of inductor in DC : https://www.youtube.com/watch?v=XjUsmXugFYU&list=TLPQMDkwNzIwMjUeO0QIW61_mA&index=8
+behaviour of inductor in AC : https://www.youtube.com/watch?v=Bh23k_oqYLg&list=TLPQMDkwNzIwMjUeO0QIW61_mA&index=7
+
+
+🟩 Level 1: Real Behavior  : learned from chatgpt
+
+

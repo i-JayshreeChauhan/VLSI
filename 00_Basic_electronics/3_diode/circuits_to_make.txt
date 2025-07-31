@@ -1,0 +1,22 @@
+--> half wave rectifier
+--> full wave rectifier
+--> zener as voltage regulator
+--> clipper ckt
+	--> positive shunt clipper / positive parallel clipper
+	--> Negative shunt clipper / Negative parallel clipper
+	--> positive shunt clipper with positive bias
+	--> positive shunt clipper with negative bias
+	--> negative shunt clipper with positive bias
+	--> negative shunt clipper with negative bias
+
+
+	--> positive series clipper
+	--> negative series clipper
+	--> positive series clipper with positive bias
+	--> positive series clipper with negative bias
+	--> negative series clipper with positive bias
+	--> negative series clipper with negative bias
+
+--> Clamper ckt
+	
+	

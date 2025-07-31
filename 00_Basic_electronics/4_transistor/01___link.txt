@@ -1,0 +1,9 @@
+level 0 : Transistor basics
+
+	what is transistor : https://www.youtube.com/watch?v=AwXp6jVaTV4
+	How transistor works : https://www.youtube.com/watch?v=J4oO7PT_nzQ
+	
+	Intro to bipolar junction transistors : https://www.youtube.com/watch?v=-VwPSDQmdjM
+
+	BJT: (common base config): https://www.youtube.com/watch?v=NMD4KECE-7I&list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq&index=2
+	BJT: (common emitter config) : https://www.youtube.com/watch?v=KynKHr2cXgk&list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq&index=3

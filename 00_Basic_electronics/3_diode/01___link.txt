@@ -1,0 +1,39 @@
+level 0 & 1 : 
+	PN junction diode basics 
+		https://www.youtube.com/watch?v=Fwj_d3uO5g8&t=4s
+		https://www.youtube.com/watch?v=USrY0JspDEg
+
+	Avalanche and Zener effect
+		https://youtu.be/EzlSafjMltc?si=JBHP3uhrbKATvQIn
+
+	Zener diode basics and its use as volt regulator
+		https://www.youtube.com/watch?v=MZPeRlst8rQ
+	
+	Schottky diode:
+		https://www.youtube.com/watch?v=nV3bBrQnws0
+	
+	LED : https://www.youtube.com/watch?v=O8M2z2hIbag&t=67s
+
+	photodiode : 
+		https://www.youtube.com/watch?v=8k9UIlwo7W4
+		https://www.youtube.com/watch?v=kry1aGCU2Go
+
+	varactor diode :
+		learned from chatgpt
+
+	tunnel diode:
+		https://youtu.be/KYCvBRZ3xkY?si=DOEvEDp2qD70jelW
+		& from chatgpt
+
+level 2:
+
+	half wave rectifier: https://www.youtube.com/watch?v=Ll0IOk_Ltfc
+	half wave rectifier LT spice: https://www.youtube.com/watch?v=RhHzxAE0Msg&t=1s
+
+	Full wave rectifier : https://www.youtube.com/watch?v=74QrYyYsftY&t=1s
+	Full wave rectifier LT spice: https://www.youtube.com/watch?v=kKuHvwSdzh4
+
+	Clipper ckt : https://www.youtube.com/watch?v=S76CnEJMl5E
+
+
+	

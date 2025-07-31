@@ -1,0 +1,20 @@
+🟩 Level 0: Absolute Basics
+🔹 Goal: Understand what a capacitor is physically and conceptually.
+✅ Topics:
+•	What is a capacitor? (analogy: water tank / balloon)
+•	Capacitance unit (Farad, µF, nF, pF)
+•	Formula: Q=C⋅VQ = C \cdot VQ=C⋅V
+•	Idea of charge and energy storage
+•	Visuals of physical caps (disk, electrolytic, SMD, etc.)
+🎯 Target Outcome: You can explain what a capacitor does in a circuit and recognize types.
+________________________________________
+
+
+basics
+1-https://www.youtube.com/watch?v=R2QQ0yiqH_U&t=12s
+2-https://www.youtube.com/watch?v=u-jigaMJT10
+3-https://www.youtube.com/watch?v=bEc75DyB6rM
+4-https://youtu.be/bEc75DyB6rM?si=D1Xu65-iRoOt2oiR
+5-general specs and capacitor explained - https://www.youtube.com/watch?v=UMJzF8__zxA&list=TLPQMjUwNjIwMjUxR4_hE2wT4g&index=2
+6-types of capacitor and their application - https://youtu.be/ucEiEic-kZ4?si=xFECdAgxU0-gUcnN
+7-capacitor basic calculation - https://www.youtube.com/watch?v=ucEiEic-kZ4&list=TLPQMjUwNjIwMjUxR4_hE2wT4g&index=3
