@@ -1,0 +1,10 @@
+*.asc linguist-language=Text
+*.log linguist-language=Text
+*.raw linguist-language=Text
+*.plt linguist-language=Text
+*.net linguist-language=Text
+*.cir linguist-language=Text
+*.out linguist-language=Text
+*.inc linguist-language=Text
+
+*.docx linguist-documentation
