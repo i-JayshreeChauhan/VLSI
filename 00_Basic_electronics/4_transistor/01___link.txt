@@ -7,3 +7,5 @@ level 0 : Transistor basics
 
 	BJT: (common base config): https://www.youtube.com/watch?v=NMD4KECE-7I&list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq&index=2
 	BJT: (common emitter config) : https://www.youtube.com/watch?v=KynKHr2cXgk&list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq&index=3
+
+	BJT as switch : https://www.youtube.com/watch?v=-VwPSDQmdjM&list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq

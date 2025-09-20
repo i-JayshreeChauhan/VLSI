@@ -1,0 +1,19 @@
+1) what is FET : https://www.youtube.com/watch?v=cOICDYuY-gA&list=PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV&index=1
+2) MOSFET depletion type : https://youtu.be/XqGBNyhImV4?si=YzYn9aWUgRu3Q-kh
+3) MOSFET enhancement type : https://youtu.be/l9LBIy9Ioxo?si=ec32YS7lftKB1dzv
+4) math problem on mosfet : https://youtu.be/iyQYYAXBRVU?si=j4XETR4giSNUDhnK
+5) MOSFET as switch : https://youtu.be/UJkHL-6mn8s?si=jOQ5HH_tN57KooB0
+6) MOSFET as a switch Question : https://www.youtube.com/watch?v=yiP8kBfFxi8&list=PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV&index=13
+7) PMOS and NMOS inverter +++ CMOS basics : (this video has both PMOS and NMOS as inverter and then CMOS)  
+	https://www.youtube.com/watch?v=f3zRz0d9XA8&t=192s
+8) CMOS inverter characteristics : 
+	https://www.geeksforgeeks.org/electronics-engineering/cmos-inverter/
+	VTC : https://www.youtube.com/watch?v=OElKhhbiJ0E  (IMPORTANT)
+
+9) CMOS as transmission gate :
+	https://www.electronics-tutorials.ws/combination/transmission-gate.html (skip everything - start reading from 'Transmission Gate' topic)
+
+10) CMOS as pass transistor : 
+	https://www.allaboutcircuits.com/technical-articles/introduction-to-pass-transistor-logic/
+	https://www.youtube.com/watch?v=2CkyYg__FTc
+
