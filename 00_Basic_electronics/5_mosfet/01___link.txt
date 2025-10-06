@@ -3,17 +3,34 @@
 3) MOSFET enhancement type : https://youtu.be/l9LBIy9Ioxo?si=ec32YS7lftKB1dzv
 4) math problem on mosfet : https://youtu.be/iyQYYAXBRVU?si=j4XETR4giSNUDhnK
 5) MOSFET as switch : https://youtu.be/UJkHL-6mn8s?si=jOQ5HH_tN57KooB0
+
 6) MOSFET as a switch Question : https://www.youtube.com/watch?v=yiP8kBfFxi8&list=PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV&index=13
+
 7) PMOS and NMOS inverter +++ CMOS basics : (this video has both PMOS and NMOS as inverter and then CMOS)  
-	https://www.youtube.com/watch?v=f3zRz0d9XA8&t=192s
+	https://www.youtube.com/watch?v=f3zRz0d9XA8&t=192
+
 8) CMOS inverter characteristics : 
 	https://www.geeksforgeeks.org/electronics-engineering/cmos-inverter/
 	VTC : https://www.youtube.com/watch?v=OElKhhbiJ0E  (IMPORTANT)
 
-9) CMOS as transmission gate :
-	https://www.electronics-tutorials.ws/combination/transmission-gate.html (skip everything - start reading from 'Transmission Gate' topic)
 
-10) CMOS as pass transistor : 
+[read NMOS and PMOS as pass transistor for the sake of understanding why NMOS passes weak 1 and PMOS passes weak 0 exist] 
+https://www.youtube.com/watch?v=zn_d6_NeMXg
+
+10) CMOS as pass transistor : (can skip this as this is outdated - transmission gate is the updated version of this) 
 	https://www.allaboutcircuits.com/technical-articles/introduction-to-pass-transistor-logic/
 	https://www.youtube.com/watch?v=2CkyYg__FTc
 
+9) CMOS as transmission gate :
+	https://www.electronics-tutorials.ws/combination/transmission-gate.html (skip everything - start reading from 'Transmission Gate' topic)
+
+
+
+11) timings 
+	General(rise , fall and prop. time) :https://www.youtube.com/watch?v=Gd1wbLiegrc
+	in context with CMOS inverter(rise & fall time) : https://www.youtube.com/watch?v=VF3qeMrMRIU&t=11s
+
+12) Capacitance in MOSFET : https://www.youtube.com/watch?v=PTftsUX80oI
+
+
+Extra : https://www.youtube.com/watch?v=rYdQQFz__bQ
