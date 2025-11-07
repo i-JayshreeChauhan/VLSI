@@ -1,0 +1,15 @@
+LTspice 24.1.9 for Windows
+Circuit: D:\0___LEARN\__VLSI__\00_Basic_electronics\6_OpAmp\3_1_close_loop_NON_INVERTING_amplifier_as_VOLTAGE_FOLLOWER_or_BUFFER_config\close_loop_non_inverting_amplifier_as_voltage_follower_or_buffer_with_AC_input.net
+Start Time: Mon Nov  3 16:07:54 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.085 seconds.
+
+Files loaded:
+D:\0___LEARN\__VLSI__\00_Basic_electronics\6_OpAmp\3_1_close_loop_NON_INVERTING_amplifier_as_VOLTAGE_FOLLOWER_or_BUFFER_config\close_loop_non_inverting_amplifier_as_voltage_follower_or_buffer_with_AC_input.net
+C:\Users\jayshree\AppData\Local\LTspice\lib\sub\LTC.lib
+
